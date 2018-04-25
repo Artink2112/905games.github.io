@@ -1,0 +1,93 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="905games.tk" resolutions="1x" timestamp="1524541615166">
+  <folder name="css">
+    <file name="site_global.css" crc="4056376302"/>
+    <file name="index.css" crc="155340443" ref="index"/>
+    <file name="iefonts_index.css" crc="522765922" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="46400467" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="436936948" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="phone>index:tablet>index:index"/>
+    <file name="require.js" crc="85721165" ref="phone>index:tablet>index:index"/>
+    <file name="webpro.js" crc="4152390327" ref="index"/>
+    <file name="form_check.php" crc="4286608207" ref="index"/>
+    <file name="form_throttle.php" crc="313199896" ref="index"/>
+    <file name="form_process.php" crc="3855659497" ref="index"/>
+    <file name="form-u3177.php" crc="61185702" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="website (8 of 9)383x287.jpg" crc="4148927368" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website (2 of 9)380x285.jpg" crc="3899248078" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website (7 of 9)380x285.jpg" crc="4217329462" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website (8 of 9).jpg" crc="496339151" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website (2 of 9)767x576.jpg" crc="525684773" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website (7 of 9)767x576.jpg" crc="208298258" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website (8 of 9)2.jpg" crc="81178108" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website (2 of 9).jpg" crc="449031790" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="design.png" crc="4137836799" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="development.png" crc="3825955620" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="responsive.png" crc="3841902940" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website (1 of 9).jpg" crc="4269273451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snapchat-1507958622.jpg" crc="483679769" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_20180423-225248.jpg" crc="233910361" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website (4 of 9).jpg" crc="4236914205" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website (9 of 9).jpg" crc="3890308889" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website (3 of 9).jpg" crc="394582502" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website (7 of 9).jpg" crc="469356492" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="527480898" ref="tablet>index"/>
+      <file name="index.css" crc="170400449" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="4173076154" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="403807649" seo="true" mt="1524541593974" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3787806876" ref="phone>index"/>
+      <file name="index.css" crc="3963495077" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="428872919" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3905421008" seo="true" mt="1524541386434" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="322869508" seo="true" mt="1524541185543" redirect="true"/>
+</manifest>
